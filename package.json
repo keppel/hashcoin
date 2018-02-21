@@ -1,0 +1,20 @@
+{
+  "name": "hashcoin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "coins": "^2.2.6",
+    "hashcash-token": "^1.0.0",
+    "lotion": "^0.1.12",
+    "minimist": "^1.2.0",
+    "mkdirp": "^0.5.1"
+  }
+}
